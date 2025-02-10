@@ -1,4 +1,4 @@
-* { background-color: rgb(167, 167, 167);
+* { background-color: rgb(185, 181, 175);
 
 }
 
@@ -8,4 +8,13 @@ color: rgb(66, 0, 0);
 font-family: sans-serif;
 
 }
- 
+ li{
+font-size: large;
+
+ }
+h2 {
+
+font-size: large;
+color: rgba(6, 10, 6, 0.486);
+
+}
